@@ -30,3 +30,7 @@ this server just routes sound file, this server can load balance.
 
 if Alarm is true, the warning is needed.
 Label tell us which the sound sounds like.
+
+## reference
+go fiber [https://gofiber.io/](https://gofiber.io/)
+ml server [https://github.com/jimmy0006/hearsitter-server-python](https://github.com/jimmy0006/hearsitter-server-python)
