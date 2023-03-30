@@ -1,4 +1,4 @@
-# solution-go
+# hearsitter-server-go
 
 this code is go server for project hearsitter, solution challenge.
 
