@@ -5,7 +5,7 @@ this code is go server for project hearsitter, solution challenge.
 ## what this is made of?
 
 this code is made with golang and fiber framework.
-also grpc is used for connecting python server.
+also grpc is used for connecting [python server](https://github.com/jimmy0006/hearsitter-server-python).
 
 ## how it works?
 
