@@ -33,7 +33,7 @@ Label tell us which the sound sounds like.
 
 ## reference
 
-landing page[https://github.com/mumwa/hearsitter-landingpage](https://github.com/mumwa/hearsitter-landingpage)
+landing page [https://github.com/mumwa/hearsitter-landingpage](https://github.com/mumwa/hearsitter-landingpage)
 
 go fiber [https://gofiber.io/](https://gofiber.io/)
 
