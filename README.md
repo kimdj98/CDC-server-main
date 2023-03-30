@@ -32,6 +32,9 @@ if Alarm is true, the warning is needed.
 Label tell us which the sound sounds like.
 
 ## reference
+
+landing page[https://github.com/mumwa/hearsitter-landingpage](https://github.com/mumwa/hearsitter-landingpage)
+
 go fiber [https://gofiber.io/](https://gofiber.io/)
 
 ml server [https://github.com/jimmy0006/hearsitter-server-python](https://github.com/jimmy0006/hearsitter-server-python)
