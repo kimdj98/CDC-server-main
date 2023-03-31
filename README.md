@@ -41,4 +41,4 @@ landing page [https://github.com/mumwa/hearsitter-landingpage](https://github.co
 
 go fiber [https://gofiber.io/](https://gofiber.io/)
 
-ml server [https://github.com/jimmy0006/hearsitter-server-python](https://github.com/jimmy0006/hearsitter-server-python)
+ml server [https://github.com/jimmy0006/hearsitter-server-ml](https://github.com/jimmy0006/hearsitter-server-ml)
