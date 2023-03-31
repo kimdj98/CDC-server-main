@@ -63,6 +63,7 @@ func (Lsts *RoundRobin) next() string {
 
 // routing to check if ml server is connected
 func PingPong(c *fiber.Ctx) error {
+	logger.MyLogger.Printf("request from",c.IP())
 	resultChan := make(chan bool)
 
 	go func() {
@@ -79,7 +80,7 @@ func PingPong(c *fiber.Ctx) error {
 
 // routing to send sound format of bytes to ml server.
 func MlServer(c *fiber.Ctx) error {
-
+	logger.MyLogger.Printf("request from",c.IP())
 	//parsing sound file from request
 	body := c.Body()
 	parsed := SignInCredentials{
@@ -124,6 +125,7 @@ func MlServer(c *fiber.Ctx) error {
 
 // routing to send sound file as byte[] to ml server
 func Files(c *fiber.Ctx) error {
+	logger.MyLogger.Printf("request from",c.IP())
 	//parsing sound file from request
 	if form, err := c.MultipartForm(); err == nil {
 		file := form.File["sounds"][0]
