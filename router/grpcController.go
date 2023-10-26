@@ -2,6 +2,7 @@ package router
 
 import (
 	"fmt"
+	"os"
 	grpc "solution/grpc"
 
 	"encoding/json"
@@ -15,6 +16,13 @@ type Result struct {
 	Alarm        bool
 	Label        string
 	Tagging_rate float32
+}
+
+type ResultWithSwitch struct {
+	Alarm        bool
+	Label        string
+	Tagging_rate float32
+	Switch       bool
 }
 
 // datatype for goroutine results
@@ -63,7 +71,7 @@ func (Lsts *RoundRobin) next() string {
 
 // routing to check if ml server is connected
 func PingPong(c *fiber.Ctx) error {
-	logger.MyLogger.Printf("request from",c.IP())
+	logger.MyLogger.Printf("request from", c.IP())
 	resultChan := make(chan bool)
 
 	go func() {
@@ -80,7 +88,7 @@ func PingPong(c *fiber.Ctx) error {
 
 // routing to send sound format of bytes to ml server.
 func MlServer(c *fiber.Ctx) error {
-	logger.MyLogger.Printf("request from",c.IP())
+	logger.MyLogger.Printf("request from", c.IP())
 	//parsing sound file from request
 	body := c.Body()
 	parsed := SignInCredentials{
@@ -109,10 +117,32 @@ func MlServer(c *fiber.Ctx) error {
 	}
 
 	//if no error exist, parse the data as response type
-	response := Result{
+	// response := Result{
+	// 	Alarm:        res.Alarm,
+	// 	Label:        res.Label,
+	// 	Tagging_rate: res.Tagging_rate,
+	// }
+	data, err := os.ReadFile("switch.json")
+	if err != nil {
+		return c.SendString("Error reading the file" + err.Error())
+	}
+
+	var labelSwitches map[string]bool
+	err = json.Unmarshal(data, &labelSwitches)
+	if err != nil {
+		return c.SendString("Error parsing JSON: " + err.Error())
+	}
+
+	switchVal, exists := labelSwitches[res.Label]
+	if !exists {
+		return c.SendString("Error: label not found in JSON switch file")
+	}
+
+	response := ResultWithSwitch{
 		Alarm:        res.Alarm,
 		Label:        res.Label,
 		Tagging_rate: res.Tagging_rate,
+		Switch:       switchVal,
 	}
 
 	u, err := json.Marshal(response)
@@ -121,56 +151,4 @@ func MlServer(c *fiber.Ctx) error {
 		return c.SendStatus(400)
 	}
 	return c.SendString(string(u))
-}
-
-// routing to send sound file as byte[] to ml server
-func Files(c *fiber.Ctx) error {
-	logger.MyLogger.Printf("request from",c.IP())
-	//parsing sound file from request
-	if form, err := c.MultipartForm(); err == nil {
-		file := form.File["sounds"][0]
-		logger.MyLogger.Print(file.Filename, file.Size, file.Header["Content-Type"][0])
-
-		fileContent, _ := file.Open()
-		var byteContainer []byte
-		byteContainer = make([]byte, 1000000)
-		fileContent.Read(byteContainer)
-
-		//because we use goroutine, we use channel to get result
-		resultChan := make(chan ResultRoutine)
-
-		//using goroutine, send request to ml server, and get response
-		go func() {
-			alarm, label, tagging_rate, err := grpc.GRPC(Robin.next(), byteContainer)
-			response := ResultRoutine{
-				Alarm:        alarm,
-				Label:        label,
-				Tagging_rate: tagging_rate,
-				Err:          err,
-			}
-			resultChan <- response
-		}()
-
-		//check result, and check if error exist
-		res := <-resultChan
-		if res.Err != nil {
-			return c.SendString("GRPC error")
-		}
-
-		//if no error exist, parse the data as response type
-		response := Result{
-			Alarm:        res.Alarm,
-			Label:        res.Label,
-			Tagging_rate: res.Tagging_rate,
-		}
-
-		u, err := json.Marshal(response)
-		if err != nil {
-			logger.MyLogger.Printf("[json] json parsing error")
-			return c.SendStatus(400)
-		}
-		return c.SendString(string(u))
-	}
-	logger.MyLogger.Printf("Multipart Form error")
-	return c.SendStatus(400)
 }
