@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"os"
 	grpc "solution/grpc"
+	"time"
 
 	"encoding/json"
 	logger "solution/logger"
@@ -42,6 +43,11 @@ type SignInCredentials struct {
 type RoundRobin struct {
 	Index int
 	Links []string
+}
+
+type ResponseWithTime struct {
+	ResultWithSwitch
+	TimeStamp string `json:"timestamp"`
 }
 
 // variable to send requests as round robin
@@ -144,7 +150,23 @@ func MlServer(c *fiber.Ctx) error {
 		Tagging_rate: res.Tagging_rate,
 		Switch:       switchVal,
 	}
-
+	timestamp := time.Now().Format(time.RFC3339Nano)
+	responseWithTime := ResponseWithTime{
+		ResultWithSwitch: response,
+		TimeStamp:        timestamp,
+	}
+	// Marshal the struct including the timestamp to JSON
+	jsonResponseWithTime, err := json.Marshal(responseWithTime)
+	if err != nil {
+		logger.MyLogger.Printf("[json] json parsing error: %v", err)
+		return c.Status(fiber.StatusInternalServerError).SendString("Error marshaling JSON")
+	}
+	// Write the JSON to the file
+	err = os.WriteFile("recent_history.json", jsonResponseWithTime, 0644)
+	if err != nil {
+		logger.MyLogger.Printf("[file] error writing recent history file: %v", err)
+		return c.Status(fiber.StatusInternalServerError).SendString("Error writing recent history file")
+	}
 	u, err := json.Marshal(response)
 	if err != nil {
 		logger.MyLogger.Printf("[json] json parsing error")
@@ -162,3 +184,8 @@ func ModifySwitch(c *fiber.Ctx) error {
 	}
 	return c.SendString("Success")
 }
+
+//func Polling(c *fiber.Ctx) error {
+//	logger.MyLogger.Printf("request from", c.IP())
+//	body := c.Body()
+//}

@@ -1,9 +1,7 @@
 {
-    "Car horn": true,
-    "Infant Crying": true,
-    "Glass": true,
-    "Fire alarm": false,
-    "Gunshot": true,
-    "Bicycle Bell": true
+  "Fire alarm" : false,
+  "Infant Crying" : false,
+  "Gunshot" : false,
+  "Bicycle Bell" : true,
+  "Car horn" : false
 }
-  
