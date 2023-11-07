@@ -4411,3 +4411,445 @@ INFO: 2023/10/26 23:05:03 request from%!(EXTRA string=172.20.10.6)
 INFO: 2023/10/26 23:05:03 Config : { Alarm : true, Label : Gunshot, Tagging_rate : 0.130742 }
 INFO: 2023/10/26 23:05:48 request from%!(EXTRA string=172.20.10.6)
 INFO: 2023/10/26 23:05:48 Config : { Alarm : false, Label : Infant Crying, Tagging_rate : 0.000675 }
+INFO: 2023/10/30 19:27:10 
+INFO: 2023/10/30 19:27:10 Program start
+INFO: 2023/10/30 19:28:23 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:23 Config : { Alarm : false, Label : Infant Crying, Tagging_rate : 0.000656 }
+INFO: 2023/10/30 19:28:24 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:24 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.001695 }
+INFO: 2023/10/30 19:28:25 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:25 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.001135 }
+INFO: 2023/10/30 19:28:26 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:26 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.001449 }
+INFO: 2023/10/30 19:28:27 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:27 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.001733 }
+INFO: 2023/10/30 19:28:28 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:28 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.001646 }
+INFO: 2023/10/30 19:28:29 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:29 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.001336 }
+INFO: 2023/10/30 19:28:30 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:30 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.001166 }
+INFO: 2023/10/30 19:28:31 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:31 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.001052 }
+INFO: 2023/10/30 19:28:32 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:33 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000894 }
+INFO: 2023/10/30 19:28:33 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:34 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.001126 }
+INFO: 2023/10/30 19:28:34 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:35 Config : { Alarm : false, Label : Fire alarm, Tagging_rate : 0.000344 }
+INFO: 2023/10/30 19:28:35 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:35 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000417 }
+INFO: 2023/10/30 19:28:36 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:36 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000484 }
+INFO: 2023/10/30 19:28:37 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:37 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000569 }
+INFO: 2023/10/30 19:28:38 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:38 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000494 }
+INFO: 2023/10/30 19:28:39 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:39 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000429 }
+INFO: 2023/10/30 19:28:40 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:40 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000341 }
+INFO: 2023/10/30 19:28:41 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:41 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000449 }
+INFO: 2023/10/30 19:28:42 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:42 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000575 }
+INFO: 2023/10/30 19:28:43 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:43 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000532 }
+INFO: 2023/10/30 19:28:44 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:44 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000579 }
+INFO: 2023/10/30 19:28:45 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:45 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000505 }
+INFO: 2023/10/30 19:28:46 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:46 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000505 }
+INFO: 2023/10/30 19:28:47 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:47 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000461 }
+INFO: 2023/10/30 19:28:48 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:48 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000454 }
+INFO: 2023/10/30 19:28:49 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:49 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000662 }
+INFO: 2023/10/30 19:28:50 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:50 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000614 }
+INFO: 2023/10/30 19:28:51 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:51 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000586 }
+INFO: 2023/10/30 19:28:52 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:52 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000699 }
+INFO: 2023/10/30 19:28:53 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:53 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.002887 }
+INFO: 2023/10/30 19:28:54 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:54 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.001213 }
+INFO: 2023/10/30 19:28:55 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:55 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.001798 }
+INFO: 2023/10/30 19:28:56 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:56 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.005047 }
+INFO: 2023/10/30 19:28:57 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:57 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.004154 }
+INFO: 2023/10/30 19:28:58 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:58 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.004553 }
+INFO: 2023/10/30 19:28:59 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:28:59 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.004690 }
+INFO: 2023/10/30 19:29:00 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:29:00 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.005827 }
+INFO: 2023/10/30 19:29:01 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:29:01 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.007107 }
+INFO: 2023/10/30 19:29:02 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:29:02 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.004765 }
+INFO: 2023/10/30 19:29:03 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:29:03 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.004375 }
+INFO: 2023/10/30 19:29:04 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:29:04 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.006560 }
+INFO: 2023/10/30 19:29:05 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:29:05 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.012319 }
+INFO: 2023/10/30 19:29:06 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:29:06 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.008577 }
+INFO: 2023/10/30 19:29:07 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:29:07 Config : { Alarm : false, Label : Gunshot, Tagging_rate : 0.010161 }
+INFO: 2023/10/30 19:29:08 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:29:08 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.005462 }
+INFO: 2023/10/30 19:29:09 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:29:09 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.008682 }
+INFO: 2023/10/30 19:29:10 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:29:10 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.006996 }
+INFO: 2023/10/30 19:29:11 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:29:11 Config : { Alarm : false, Label : Gunshot, Tagging_rate : 0.009500 }
+INFO: 2023/10/30 19:29:12 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:29:12 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.005020 }
+INFO: 2023/10/30 19:29:13 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:29:13 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.007063 }
+INFO: 2023/10/30 19:29:14 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:29:14 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.006056 }
+INFO: 2023/10/30 19:29:15 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:29:15 Config : { Alarm : false, Label : Gunshot, Tagging_rate : 0.009154 }
+INFO: 2023/10/30 19:29:16 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:29:16 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.005426 }
+INFO: 2023/10/30 19:29:17 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:29:17 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000460 }
+INFO: 2023/10/30 19:29:18 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:29:18 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000498 }
+INFO: 2023/10/30 19:29:19 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:29:19 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000495 }
+INFO: 2023/10/30 19:29:20 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:29:20 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000505 }
+INFO: 2023/10/30 19:29:21 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:29:21 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000524 }
+INFO: 2023/10/30 19:30:28 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:28 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000649 }
+INFO: 2023/10/30 19:30:28 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:28 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000603 }
+INFO: 2023/10/30 19:30:28 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:28 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000738 }
+INFO: 2023/10/30 19:30:28 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:28 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000783 }
+INFO: 2023/10/30 19:30:28 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:28 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000648 }
+INFO: 2023/10/30 19:30:29 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:29 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000850 }
+INFO: 2023/10/30 19:30:29 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:29 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000625 }
+INFO: 2023/10/30 19:30:29 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:29 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000646 }
+INFO: 2023/10/30 19:30:29 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:29 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000439 }
+INFO: 2023/10/30 19:30:29 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:29 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.001572 }
+INFO: 2023/10/30 19:30:29 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:30 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.003813 }
+INFO: 2023/10/30 19:30:30 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:30 Config : { Alarm : false, Label : Gunshot, Tagging_rate : 0.012009 }
+INFO: 2023/10/30 19:30:30 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:30 Config : { Alarm : true, Label : Gunshot, Tagging_rate : 0.132155 }
+INFO: 2023/10/30 19:30:30 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:30 Config : { Alarm : true, Label : Gunshot, Tagging_rate : 0.266203 }
+INFO: 2023/10/30 19:30:30 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:30 Config : { Alarm : true, Label : Gunshot, Tagging_rate : 0.401796 }
+INFO: 2023/10/30 19:30:30 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:31 Config : { Alarm : true, Label : Gunshot, Tagging_rate : 0.390296 }
+INFO: 2023/10/30 19:30:31 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:31 Config : { Alarm : true, Label : Gunshot, Tagging_rate : 0.351918 }
+INFO: 2023/10/30 19:30:31 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:31 Config : { Alarm : true, Label : Gunshot, Tagging_rate : 0.366908 }
+INFO: 2023/10/30 19:30:31 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:31 Config : { Alarm : true, Label : Gunshot, Tagging_rate : 0.524046 }
+INFO: 2023/10/30 19:30:31 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:31 Config : { Alarm : true, Label : Gunshot, Tagging_rate : 0.495676 }
+INFO: 2023/10/30 19:30:31 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:31 Config : { Alarm : true, Label : Gunshot, Tagging_rate : 0.435715 }
+INFO: 2023/10/30 19:30:32 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:32 Config : { Alarm : true, Label : Gunshot, Tagging_rate : 0.417486 }
+INFO: 2023/10/30 19:30:32 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:32 Config : { Alarm : true, Label : Gunshot, Tagging_rate : 0.387085 }
+INFO: 2023/10/30 19:30:32 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:32 Config : { Alarm : true, Label : Gunshot, Tagging_rate : 0.314775 }
+INFO: 2023/10/30 19:30:32 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:32 Config : { Alarm : true, Label : Gunshot, Tagging_rate : 0.323526 }
+INFO: 2023/10/30 19:30:32 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:32 Config : { Alarm : true, Label : Gunshot, Tagging_rate : 0.250849 }
+INFO: 2023/10/30 19:30:33 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:33 Config : { Alarm : true, Label : Gunshot, Tagging_rate : 0.135532 }
+INFO: 2023/10/30 19:30:33 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:33 Config : { Alarm : true, Label : Gunshot, Tagging_rate : 0.144605 }
+INFO: 2023/10/30 19:30:33 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:33 Config : { Alarm : true, Label : Gunshot, Tagging_rate : 0.075116 }
+INFO: 2023/10/30 19:30:33 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:33 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.004880 }
+INFO: 2023/10/30 19:30:33 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:34 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.004712 }
+INFO: 2023/10/30 19:30:34 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:34 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000874 }
+INFO: 2023/10/30 19:30:34 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:34 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000351 }
+INFO: 2023/10/30 19:30:34 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:34 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000382 }
+INFO: 2023/10/30 19:30:34 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:34 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000442 }
+INFO: 2023/10/30 19:30:35 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:35 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000618 }
+INFO: 2023/10/30 19:30:35 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:35 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000593 }
+INFO: 2023/10/30 19:30:35 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:35 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000584 }
+INFO: 2023/10/30 19:30:35 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:35 Config : { Alarm : false, Label : Fire alarm, Tagging_rate : 0.001588 }
+INFO: 2023/10/30 19:30:35 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:36 Config : { Alarm : false, Label : Fire alarm, Tagging_rate : 0.001659 }
+INFO: 2023/10/30 19:30:36 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:36 Config : { Alarm : false, Label : Fire alarm, Tagging_rate : 0.000976 }
+INFO: 2023/10/30 19:30:36 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:36 Config : { Alarm : false, Label : Fire alarm, Tagging_rate : 0.001189 }
+INFO: 2023/10/30 19:30:36 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:36 Config : { Alarm : false, Label : Gunshot, Tagging_rate : 0.003817 }
+INFO: 2023/10/30 19:30:36 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:36 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.003842 }
+INFO: 2023/10/30 19:30:36 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:37 Config : { Alarm : false, Label : Gunshot, Tagging_rate : 0.003681 }
+INFO: 2023/10/30 19:30:37 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:37 Config : { Alarm : false, Label : Gunshot, Tagging_rate : 0.006052 }
+INFO: 2023/10/30 19:30:37 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:37 Config : { Alarm : false, Label : Gunshot, Tagging_rate : 0.005014 }
+INFO: 2023/10/30 19:30:37 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:37 Config : { Alarm : false, Label : Gunshot, Tagging_rate : 0.006140 }
+INFO: 2023/10/30 19:30:37 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:37 Config : { Alarm : false, Label : Gunshot, Tagging_rate : 0.004797 }
+INFO: 2023/10/30 19:30:37 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:37 Config : { Alarm : false, Label : Gunshot, Tagging_rate : 0.006588 }
+INFO: 2023/10/30 19:30:38 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:38 Config : { Alarm : false, Label : Gunshot, Tagging_rate : 0.005450 }
+INFO: 2023/10/30 19:30:38 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:38 Config : { Alarm : false, Label : Gunshot, Tagging_rate : 0.003638 }
+INFO: 2023/10/30 19:30:38 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:38 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000654 }
+INFO: 2023/10/30 19:30:38 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:38 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.008547 }
+INFO: 2023/10/30 19:30:38 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:38 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.008468 }
+INFO: 2023/10/30 19:30:38 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:39 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.009595 }
+INFO: 2023/10/30 19:30:39 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:39 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.006954 }
+INFO: 2023/10/30 19:30:39 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:39 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.011526 }
+INFO: 2023/10/30 19:30:39 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:39 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.010530 }
+INFO: 2023/10/30 19:30:39 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:39 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.026020 }
+INFO: 2023/10/30 19:30:39 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:40 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.026159 }
+INFO: 2023/10/30 19:30:40 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:40 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.019240 }
+INFO: 2023/10/30 19:30:40 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:40 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.019020 }
+INFO: 2023/10/30 19:30:40 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:40 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.003269 }
+INFO: 2023/10/30 19:30:40 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:40 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.002934 }
+INFO: 2023/10/30 19:30:40 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:41 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.002364 }
+INFO: 2023/10/30 19:30:41 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:41 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.001345 }
+INFO: 2023/10/30 19:30:41 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:41 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.002663 }
+INFO: 2023/10/30 19:30:41 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:41 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000600 }
+INFO: 2023/10/30 19:30:41 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:41 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000595 }
+INFO: 2023/10/30 19:30:41 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:42 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000365 }
+INFO: 2023/10/30 19:30:42 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:42 Config : { Alarm : false, Label : Infant Crying, Tagging_rate : 0.001251 }
+INFO: 2023/10/30 19:30:42 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:42 Config : { Alarm : false, Label : Infant Crying, Tagging_rate : 0.001269 }
+INFO: 2023/10/30 19:30:42 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:42 Config : { Alarm : false, Label : Infant Crying, Tagging_rate : 0.001380 }
+INFO: 2023/10/30 19:30:42 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:42 Config : { Alarm : false, Label : Infant Crying, Tagging_rate : 0.006565 }
+INFO: 2023/10/30 19:30:42 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:43 Config : { Alarm : false, Label : Infant Crying, Tagging_rate : 0.006480 }
+INFO: 2023/10/30 19:30:43 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:43 Config : { Alarm : false, Label : Infant Crying, Tagging_rate : 0.008350 }
+INFO: 2023/10/30 19:30:43 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:43 Config : { Alarm : false, Label : Infant Crying, Tagging_rate : 0.007946 }
+INFO: 2023/10/30 19:30:43 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:43 Config : { Alarm : false, Label : Infant Crying, Tagging_rate : 0.007396 }
+INFO: 2023/10/30 19:30:43 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:43 Config : { Alarm : false, Label : Infant Crying, Tagging_rate : 0.008133 }
+INFO: 2023/10/30 19:30:43 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:44 Config : { Alarm : false, Label : Infant Crying, Tagging_rate : 0.006567 }
+INFO: 2023/10/30 19:30:44 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:44 Config : { Alarm : false, Label : Infant Crying, Tagging_rate : 0.005714 }
+INFO: 2023/10/30 19:30:44 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:44 Config : { Alarm : false, Label : Infant Crying, Tagging_rate : 0.002616 }
+INFO: 2023/10/30 19:30:45 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:45 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.002389 }
+INFO: 2023/10/30 19:30:46 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:46 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.007147 }
+INFO: 2023/10/30 19:30:47 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:47 Config : { Alarm : false, Label : Gunshot, Tagging_rate : 0.035000 }
+INFO: 2023/10/30 19:30:48 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:48 Config : { Alarm : false, Label : Gunshot, Tagging_rate : 0.025066 }
+INFO: 2023/10/30 19:30:49 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:49 Config : { Alarm : false, Label : Gunshot, Tagging_rate : 0.019458 }
+INFO: 2023/10/30 19:30:50 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:50 Config : { Alarm : false, Label : Gunshot, Tagging_rate : 0.036720 }
+INFO: 2023/10/30 19:30:51 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:52 Config : { Alarm : true, Label : Gunshot, Tagging_rate : 0.055263 }
+INFO: 2023/10/30 19:30:52 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:52 Config : { Alarm : false, Label : Gunshot, Tagging_rate : 0.033631 }
+INFO: 2023/10/30 19:30:53 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:53 Config : { Alarm : false, Label : Gunshot, Tagging_rate : 0.028853 }
+INFO: 2023/10/30 19:30:54 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:54 Config : { Alarm : false, Label : Gunshot, Tagging_rate : 0.047312 }
+INFO: 2023/10/30 19:30:55 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:55 Config : { Alarm : false, Label : Gunshot, Tagging_rate : 0.049123 }
+INFO: 2023/10/30 19:30:56 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:56 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.002748 }
+INFO: 2023/10/30 19:30:57 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:57 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000448 }
+INFO: 2023/10/30 19:30:58 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:58 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000485 }
+INFO: 2023/10/30 19:30:59 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:30:59 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000368 }
+INFO: 2023/10/30 19:31:00 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:31:00 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000320 }
+INFO: 2023/10/30 19:31:01 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:31:01 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000636 }
+INFO: 2023/10/30 19:31:02 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:31:02 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000585 }
+INFO: 2023/10/30 19:31:03 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:31:03 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000595 }
+INFO: 2023/10/30 19:31:04 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:31:04 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000419 }
+INFO: 2023/10/30 19:31:05 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:31:05 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000483 }
+INFO: 2023/10/30 19:31:06 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:31:06 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000610 }
+INFO: 2023/10/30 19:31:07 request from%!(EXTRA string=172.20.10.6)
+INFO: 2023/10/30 19:31:07 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000856 }
+INFO: 2023/11/06 13:13:14 
+INFO: 2023/11/06 13:13:14 Program start
+INFO: 2023/11/06 13:16:12 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:16:12 Config : { Alarm : false, Label : Fire alarm, Tagging_rate : 0.001615 }
+INFO: 2023/11/06 13:16:13 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:16:13 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.001187 }
+INFO: 2023/11/06 13:16:14 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:16:14 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000723 }
+INFO: 2023/11/06 13:16:15 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:16:15 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000873 }
+INFO: 2023/11/06 13:16:16 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:16:16 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000928 }
+INFO: 2023/11/06 13:16:17 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:16:17 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.001147 }
+INFO: 2023/11/06 13:16:18 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:16:18 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.001123 }
+INFO: 2023/11/06 13:16:19 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:16:19 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.001182 }
+INFO: 2023/11/06 13:16:20 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:16:20 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.001616 }
+INFO: 2023/11/06 13:16:21 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:16:21 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.001813 }
+INFO: 2023/11/06 13:16:22 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:16:22 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000915 }
+INFO: 2023/11/06 13:16:23 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:16:23 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000915 }
+INFO: 2023/11/06 13:16:24 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:16:24 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000915 }
+INFO: 2023/11/06 13:16:25 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:16:25 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000915 }
+INFO: 2023/11/06 13:16:26 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:16:26 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000915 }
+INFO: 2023/11/06 13:16:27 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:16:27 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000915 }
+INFO: 2023/11/06 13:16:28 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:16:28 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000915 }
+INFO: 2023/11/06 13:16:29 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:16:29 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000915 }
+INFO: 2023/11/06 13:16:30 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:19:42 
+INFO: 2023/11/06 13:19:42 Program start
+INFO: 2023/11/06 13:19:47 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:19:47 Config : { Alarm : false, Label : Fire alarm, Tagging_rate : 0.001565 }
+INFO: 2023/11/06 13:19:48 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:19:48 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.001153 }
+INFO: 2023/11/06 13:19:49 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:19:49 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000708 }
+INFO: 2023/11/06 13:19:50 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:19:50 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000857 }
+INFO: 2023/11/06 13:19:51 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:19:51 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000908 }
+INFO: 2023/11/06 13:19:52 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:19:52 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.001123 }
+INFO: 2023/11/06 13:19:53 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:19:53 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.001107 }
+INFO: 2023/11/06 13:19:54 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:19:54 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.001174 }
+INFO: 2023/11/06 13:19:55 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:19:55 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.001604 }
+INFO: 2023/11/06 13:19:56 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:19:56 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.001807 }
+INFO: 2023/11/06 13:19:57 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:19:57 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000915 }
+INFO: 2023/11/06 13:19:58 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:19:58 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000915 }
+INFO: 2023/11/06 13:19:59 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:19:59 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000915 }
+INFO: 2023/11/06 13:20:00 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:20:00 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000915 }
+INFO: 2023/11/06 13:20:01 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:20:01 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000915 }
+INFO: 2023/11/06 13:20:02 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:20:02 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000915 }
+INFO: 2023/11/06 13:20:03 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:20:03 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000915 }
+INFO: 2023/11/06 13:20:04 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:20:05 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000915 }
+INFO: 2023/11/06 13:20:05 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:20:06 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000915 }
+INFO: 2023/11/06 13:20:07 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:20:07 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000915 }
+INFO: 2023/11/06 13:20:08 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/06 13:20:08 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.000915 }
+INFO: 2023/11/07 14:12:59 
+INFO: 2023/11/07 14:12:59 Program start
+INFO: 2023/11/07 14:18:25 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/07 14:18:44 Config : { Alarm : false, Label : Fire alarm, Tagging_rate : 0.001495 }
+INFO: 2023/11/07 14:20:28 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/07 14:20:28 Config : { Alarm : false, Label : Glass, Tagging_rate : 0.001210 }
+INFO: 2023/11/07 16:50:26 
+INFO: 2023/11/07 16:50:26 Program start
+INFO: 2023/11/07 16:52:42 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/07 16:54:21 
+INFO: 2023/11/07 16:54:21 Program start
+INFO: 2023/11/07 16:55:36 
+INFO: 2023/11/07 16:55:36 Program start
+INFO: 2023/11/07 17:17:23 
+INFO: 2023/11/07 17:17:23 Program start
+INFO: 2023/11/07 17:17:26 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/07 17:17:55 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/07 17:18:13 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/07 17:18:33 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/07 17:20:03 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/07 17:20:22 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/07 17:20:25 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/07 17:21:47 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/07 17:22:53 request from%!(EXTRA string=127.0.0.1)
+INFO: 2023/11/07 17:23:03 
+INFO: 2023/11/07 17:23:03 Program start
+INFO: 2023/11/07 17:23:24 request from%!(EXTRA string=127.0.0.1)

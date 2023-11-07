@@ -152,3 +152,13 @@ func MlServer(c *fiber.Ctx) error {
 	}
 	return c.SendString(string(u))
 }
+
+func ModifySwitch(c *fiber.Ctx) error {
+	logger.MyLogger.Printf("request from", c.IP())
+	body := c.Body()
+	err := os.WriteFile("switch.json", []byte(body), 0644)
+	if err != nil {
+		return c.SendString("Error writing the file" + err.Error())
+	}
+	return c.SendString("Success")
+}

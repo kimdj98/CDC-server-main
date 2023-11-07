@@ -14,11 +14,12 @@ var ctx = context.Background()
 func main() {
 	app := fiber.New(fiber.Config{AppName: "Hearsitter!"})
 
-	app.Get("/", router.HelloWorld)    //route for check server on
-	app.Get("/ping", router.PingPong)  //route for check ml server on
-	app.Post("/uint", router.MlServer) //route for send byte[] to ml server
-	// app.Post("/file", router.Files)    //route for send file to ml server
+	app.Get("/", router.HelloWorld)          //route to check server on
+	app.Get("/ping", router.PingPong)        //route to check ml server on
+	app.Post("/uint", router.MlServer)       //route to send byte[] to ml server
+	app.Post("/switch", router.ModifySwitch) //route to change switch.json
+	// app.Post("/file", router.Files)    //route to send file to ml server
 	logger.Start()
-	fmt.Println("HI!")
+	fmt.Println("Server Start!")
 	app.Listen(":3000")
 }
